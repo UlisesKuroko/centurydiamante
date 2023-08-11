@@ -9,7 +9,7 @@
     "tarea": "gulp tarea",
     "css": "gulp css"
   },
-  "author": "Juan De La Torre",
+  "author": "Ulises Eduardo Zetina",
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^5.1.0",
