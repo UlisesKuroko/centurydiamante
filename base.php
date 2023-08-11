@@ -4,7 +4,7 @@
 ?>
 
 <main class="contenedor seccion">
-    <h1>Titulo de Pagina</h1>
+    <h1>Century21</h1>
 </main>
 
 <?php 
