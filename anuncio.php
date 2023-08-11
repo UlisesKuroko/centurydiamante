@@ -12,7 +12,7 @@
     $db = conectarDB();
 
 
-    // consultar
+    // consultar la bd
     $query = "SELECT * FROM propiedades WHERE id = ${id}";
 
     // obtener resultado
